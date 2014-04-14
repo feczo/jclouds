@@ -123,8 +123,8 @@ Resources
 * Project page: http://jclouds.org/
 * Documentation: http://www.jclouds.org/documentation/index
 * Community: http://www.jclouds.org/documentation/reference/apps-that-use-jclouds 
-* User group: http://groups.google.com/group/jclouds
-* Dev group: http://groups.google.com/group/jclouds-dev
+* User group: http://www.mail-archive.com/user@jclouds.apache.org/
+* Dev group: http://www.mail-archive.com/dev@jclouds.apache.org/
 * Twitter: http://twitter.com/jclouds
 
 License
